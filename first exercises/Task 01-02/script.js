@@ -1,6 +1,7 @@
 console.log("Hello World!");
 console.log("Nazan");
-console("N" + "a" + "z" + "a" + "n");
+console.log("N" + "a" + "z" + "a" + "n");
+
 // Error! Make it work
 console.log("Hallo");
 // Error! Make it work
@@ -16,4 +17,4 @@ console.log(2 + 2);
 console.log(25 / 5); // Result: 5
 console.log(50 / 10); // Result: 5
 
-console.log(25 / 5) === 50 / 10;
+console.log(25 / 5 === 50 / 10);
